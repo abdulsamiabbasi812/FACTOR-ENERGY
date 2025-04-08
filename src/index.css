@@ -1,0 +1,413 @@
+@media (max-width: 1285px) {
+
+  #navbar .nav-left {
+    padding-left: 45px;
+  }
+
+  #navbar .nav-right {
+    padding-right: 0px;
+  }
+
+  body #home {
+    height: 650px;
+  }
+
+  #home .text-content {
+    padding-top: 140px;
+    padding-left: 50px;
+  }
+
+  #home .text-content h1 {
+    font-size: 40px;
+  }
+
+  #home .text-content p {
+    font-size: 15px;
+    width: 400px;
+  }
+
+  #home .image-content img {
+    height: 650px;
+    width: 600px;
+  }
+
+  #home .btn {
+    padding: 22px 33px;
+
+  }
+
+  #home .home-btn {
+    padding: 22px 33px;
+  }
+
+
+
+  body #EnergyType {
+    padding: 15px 48px;
+  }
+
+  #EnergyType .box-container {
+    gap: 5px;
+  }
+
+  #EnergyType .EnergyTypeCards {
+    height: 400px;
+  }
+
+  #EnergyType .box-btn {
+    padding: 12px 20px;
+    font-size: 15px;
+  }
+
+  #EnergyType .EnergyTypeCards h2 {
+    margin-top: 230px;
+  }
+
+
+  #blog .blog-box1-h1 {
+    font-size: 27px;
+    margin-top: 256px;
+  }
+
+  #blog .blog-box2-h1 {
+    font-size: 27px;
+    margin-top: 256px;
+  }
+
+  #blog .blog-box3-h1 {
+    font-size: 23px;
+    margin-top: 245px;
+  }
+
+  #blog .blog-box4-h1 {
+    font-size: 27px;
+    margin-top: 289px;
+  }
+
+  #blog .blog-box5-h1 {
+    font-size: 23px;
+    margin-top: 246px;
+  }
+
+  #blog .blog-box6-h1 {
+    font-size: 20px;
+    margin-top: 262px;
+  }
+
+  #blog .blog-content {
+    padding: 0px 15px;
+  }
+
+  #blog .para-6 {
+    font-size: 14px;
+  }
+
+
+  #blog .blog-box6 {
+    width: 27%;
+  }
+
+  #blog .blog-box2 {
+    width: 40%;
+  }
+
+  #blog .blog-btn {
+    padding: 17px 14px;
+  }
+
+}
+
+
+@media (max-width: 980px) {
+
+  #navbar .nav-left {
+    padding-left: 35px;
+  }
+
+  body #home {
+    height: 580px;
+  }
+
+  #home .text-content {
+    padding-top: 140px;
+    padding-left: 40px;
+  }
+
+  #home .text-content h1 {
+    font-size: 37px;
+  }
+
+  #home .text-content p {
+    font-size: 14px;
+    width: 350px;
+  }
+
+  #home .image-content img {
+    height: 580px;
+    width: 540px;
+  }
+
+  #home .btn {
+    padding: 19px 29px;
+
+  }
+
+  #home .home-btn {
+    padding: 19px 29px;
+  }
+
+
+
+
+
+  #EnergyType .box-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+  }
+
+  #EnergyType .EnergyTypeCards {
+    width: 670px;
+  }
+
+  #EnergyType .EnergyTypeCards h2 {
+    margin-top: 280px;
+  }
+
+
+
+  body #services {
+    padding: 0px 20px;
+  }
+
+  #services .services-box {
+    padding: 15px;
+  }
+
+  #blog .all-blogs {
+    flex-direction: column;
+  }
+
+  #blog .blog-box1,
+  #blog .blog-box2,
+  #blog .blog-box3,
+  #blog .blog-box4,
+  #blog .blog-box5,
+  #blog .blog-box6,
+  #blog .blog-box7 {
+    width: 97%;
+  }
+
+  #blog .blog-box1-h1,
+  #blog .blog-box2-h1,
+  #blog .blog-box3-h1,
+  #blog .blog-box4-h1,
+  #blog .blog-box5-h1,
+  #blog .blog-box6-h1,
+  #blog .blog-box7-h1 {
+    margin-top: 300px;
+    font-size: 32px;
+  }
+
+}
+
+@media (max-width: 860px) {
+
+  #navbar .nav-left {
+    padding-left: 25px;
+  }
+
+  body #home {
+    height: 540px;
+  }
+
+  #home .text-content {
+    padding-top: 140px;
+    padding-left: 28px;
+  }
+
+  #home .text-content h1 {
+    font-size: 32px;
+  }
+
+  #home .text-content p {
+    font-size: 13px;
+    width: 350px;
+  }
+
+  #home .image-content img {
+    height: 540px;
+    width: 500px;
+  }
+
+  #home .btn {
+    padding: 15px 25px;
+
+  }
+
+  #home .home-btn {
+    padding: 15px 25px;
+  }
+
+
+  body #EnergyType {
+    padding: 15px 24px;
+  }
+
+  #EnergyType .EnergyTypeCards {
+    width: 94%;
+  }
+
+  #EnergyType .EnergyTypeCards h2 {
+    margin-top: 270px;
+  }
+
+  #services .services-box {
+    padding: 5px;
+  }
+
+  #services .services-content {
+    gap: 5px;
+  }
+
+  #services .services-txt-cont {
+    gap: 4px;
+  }
+
+
+  #contact .contact-h1 {
+    font-size: 30px;
+    width: 500px;
+  }
+
+  #contact .contact-btn {
+    padding: 20px 45px;
+  }
+
+  #contact .contact-btn {
+    padding: 20px 20px;
+  }
+
+}
+
+@media (max-width: 760px) {
+
+  #navbar .nav-left {
+    padding-left: 17px;
+  }
+
+  #navbar .ul-lines li {
+    margin: 0px 12px;
+  }
+
+  body #home {
+    height: 480px;
+  }
+
+  #home .text-content {
+    padding-top: 140px;
+    padding-left: 20px;
+  }
+
+  #home .text-content h1 {
+    font-size: 32px;
+  }
+
+  #home .text-content p {
+    font-size: 16px;
+    width: 350px;
+  }
+
+  #home .image-content img {
+    height: 480px;
+    width: 350px;
+  }
+
+  #home .btn {
+    padding: 12px 22px;
+
+  }
+
+  #home .home-btn {
+    padding: 12px 22px;
+  }
+
+
+
+
+}
+
+@media (max-width: 736px) {
+
+  #navbar {
+    width: 787px;
+  }
+
+  #navbar .nav-left {
+    padding-left: 17px;
+  }
+
+  #navbar .ul-lines li {
+    margin: 0px 12px;
+  }
+
+  body #home {
+    height: 600px;
+    width: 787px;
+  }
+
+  #home .text-content {
+    padding-top: 140px;
+    padding-left: 20px;
+  }
+
+  #home .text-content h1 {
+    font-size: 33px;
+  }
+
+  #home .text-content p {
+    font-size: 16px;
+    width: 350px;
+  }
+
+  #home .image-content img {
+    height: 600px;
+    width: 350px;
+  }
+
+  #home .btn {
+    padding: 12px 22px;
+
+  }
+
+  #home .home-btn {
+    padding: 12px 22px;
+  }
+
+
+  body #EnergyType {
+    width: 739px;
+  }
+
+  body #services {
+    width: 739px;
+  }
+
+  body #blog {
+    width: 787px;
+  }
+
+  body #clients {
+    width: 787px;
+  }
+
+  #contact {
+    width: 787px;
+  }
+
+  #footer {
+    width: 739px;
+  }
+}
+
+@media (max-width: 425px) {}
