@@ -603,9 +603,9 @@ body {
 .clients-para {
   font-size: 20px;
   text-align: center;
-  margin-top: 4px;
+  margin-top: 1px;
   font-family: "Quicksand", sans-serif;
-  padding: 0px 52px;
+  padding: 0px 50px;
   color: #333;
 }
 

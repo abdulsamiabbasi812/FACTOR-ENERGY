@@ -111,7 +111,7 @@ function App() {
         <section id="blog">
           <h1 className='blog-heading'>Blog Posts</h1>
           <div className="all-blogs">
-            <div className="blog-box1">
+            <div className="blog-box1 common-box">
               <div className="blog-content">
                 <h1 className='blog-box1-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -120,7 +120,7 @@ function App() {
               </div>
             </div>
 
-            <div className="blog-box2">
+            <div className="blog-box2 common-box">
               <div className="blog-content">
                 <h1 className='blog-box2-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -132,7 +132,7 @@ function App() {
           </div>
           <div className="all-blogs">
 
-            <div className="blog-box3">
+            <div className="blog-box3 common-box">
               <div className="blog-content">
                 <h1 className='blog-box3-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -141,7 +141,7 @@ function App() {
               </div>
             </div>
 
-            <div className="blog-box4">
+            <div className="blog-box4 common-box">
               <div className="blog-content">
                 <h1 className='blog-box4-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -153,7 +153,7 @@ function App() {
 
           <div className="all-blogs">
 
-            <div className="blog-box5">
+            <div className="blog-box5 common-box">
               <div className="blog-content">
                 <h1 className='blog-box5-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -162,7 +162,7 @@ function App() {
               </div>
             </div>
 
-            <div className="blog-box6">
+            <div className="blog-box6 common-box">
               <div className="blog-content">
                 <h1 className='blog-box6-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para para-6">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -171,7 +171,7 @@ function App() {
               </div>
             </div>
 
-            <div className="blog-box7">
+            <div className="blog-box7 common-box">
               <div className="blog-content">
                 <h1 className='blog-box6-h1'>Lorem ipsum dolor sit amet consectetur.</h1>
                 <p className="blog-para para-6">Lorem ipsum dolor sit amet consectetur. Vel molestie quam ipsum ut nec feugiat tellus. </p>
@@ -184,7 +184,7 @@ function App() {
 
         <section id="clients">
           <h1 className="clients-h1">Nuestros clientes</h1>
-          <p className="clients-para">Lorem ipsum dolor sit amet consectetur. Sit senectus quisque at egestas nibh enim tellus amet. Gravida tellus venenatis nunc fringilla dolor a a tincidunt in. Pulvinar ullamcorper luctus at justo tincidunt odio tempus eu neque. </p>
+          <p className="clients-para">Lorem ipsum dolor sit amet consectetur. Sit senectus quisque at egestas nibh enim tellus amet.Gravida tellus venenatis nunc fringilla dolor a a tincidunt in. Pulvinar ullamcorper luctus at justo tincidunt odio tempus eu neque. </p>
           <div className="client-images">
             <div className="client-img">
               <img src={Pic1} alt="" />
