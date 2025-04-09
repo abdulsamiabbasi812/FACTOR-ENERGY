@@ -167,7 +167,7 @@
   }
 
   #EnergyType .EnergyTypeCards {
-    width: 670px;
+    width: 100%;
   }
 
   #EnergyType .EnergyTypeCards h2 {
@@ -249,13 +249,8 @@
     padding: 15px 25px;
   }
 
-
-  body #EnergyType {
-    padding: 15px 24px;
-  }
-
   #EnergyType .EnergyTypeCards {
-    width: 90%;
+    width: 100%;
   }
 
   #EnergyType .EnergyTypeCards h2 {
@@ -389,15 +384,20 @@
   #home .home-btn {
     padding: 10px 18px;
   }
-
-
+  
+  
   body #EnergyType {
     width: 100%;
     max-width: 739px;
+    padding: 8px 1px;
+  }
+
+  #EnergyType .EnergyType-h2 {
+padding:0px 20px ;
   }
 
   #EnergyType .EnergyTypeCards {
-    width: 90%;
+    width: 86%;
   }
 
   body #services,
@@ -417,6 +417,16 @@
 
   #contact .contact-btn {
     padding: 20px 20px;
+  }
+
+#EnergyType .box-container{
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+  #EnergyType .EnergyTypeCards h2 {
+    margin-top: 270px;
   }
 }
 
@@ -516,9 +526,18 @@
   #home .home-btn {
     padding: 7px 14px;
   }
+  
+    #EnergyType .EnergyTypeCards {
+      width: 82%;
+      height: 500px;
+    }
+  
+    #EnergyType .EnergyTypeCards h2 {
+      margin-top: 360px;
+    }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 480px) {
   #navbar .nav-left {
     padding-left: 7px;
   }
@@ -577,6 +596,15 @@
 
   #home .home-btn {
     padding: 11px 17px;
+  }
+
+  #EnergyType .EnergyTypeCards {
+    width: 80%;
+    height: 450px;
+  }
+
+  #EnergyType .EnergyTypeCards h2 {
+    margin-top: 300px;
   }
 }
 
@@ -639,6 +667,15 @@ border-radius: 8px;
 
   #home .home-btn {
     padding: 9px 15px;
+  }
+
+  #EnergyType .EnergyTypeCards {
+    width: 75%;
+    height: 500px;
+  }
+
+  #EnergyType .EnergyTypeCards h2 {
+    margin-top: 340px;
   }
 }
 @media (max-width: 320px) {
