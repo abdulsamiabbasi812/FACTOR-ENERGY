@@ -35,7 +35,7 @@ function App() {
 
               <div className="button-content">
                 <button className="btn">Nuestros proyectos</button>
-                <button className="btn home-btn"><BsArrowUpRight size={25} /></button>
+                <button className="btn home-btn"><BsArrowUpRight /></button>
               </div>
             </div>
             <div className="image-content">
